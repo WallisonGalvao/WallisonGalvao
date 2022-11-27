@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @WallisonGalvao
-- 👀 I’m interested in Python, NodeJs and ReactJs
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning Java, Spring and React
 - 📫 How to reach me: wallison08@gmail.com
 
 <!---
