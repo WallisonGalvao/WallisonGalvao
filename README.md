@@ -11,8 +11,6 @@
 </br>                                                                                                                           
 💬 Ask me about conspirancy theorys and code
 </br>
-😄 Pronouns: she/her
-</br>
 ⚡ Fun fact: Movies/series addicted
 </br>
 
