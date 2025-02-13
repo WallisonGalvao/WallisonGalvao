@@ -1,17 +1,63 @@
+💻 Wallison - Software Developer
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">
-  </br>
-  <br />
+Olá! Sou um desenvolvedor de software com mais de 2 anos e meio de experiência, especializado em desenvolvimento back-end. Tenho experiência com C#/.NET, Java, Spring Boot, SQL Server e AWS.
 
-Hi!  I'm Wallison, a Software Developer. I love to work with  BackEnd applications, with C# and Java.
-Currently I work with FullStack applications using .NET (.NET Framework, .NET Core, ASP NET MVC, Web Forms) for the BackEnd and
-ReactJs e Bootstrap for the FrontEnd.
+🚀 Tecnologias & Ferramentas
 
- Contact:
-  <a href="https://www.linkedin.com/in/wgquero/" target="_blank">
-  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="20px"  alt=" LinkedIn" />
-</a></h1>
-                                                                                                                   
+🔹 Linguagens de Programação
+
+C# / .NET (.NET Framework, .NET Core, ASP NET CORE, ASP NET MVC, Web Forms)
+
+Java / Spring Boot
+
+JavaScript / HTML / CSS 
+
+SQL / T-SQL
+
+🔹 Banco de Dados
+
+SQL Server (Otimização de queries, stored procedures)
+
+PostgreSQL
+
+Banco de Dados Eventualmente Consistente
+
+🔹 Cloud & DevOps
+
+AWS (EC2, VPC, Load Balancer, VPN, S3, RDS, IAM)
+
+Docker
+
+Git / GitHub / GitLab
+
+🔹 Front-end & UI
+
+React.js (Iniciando aprendizado)
+
+Bootstrap / Material-UI
+
+🔹 Metodologias
+
+Scrum / Agile
+
+📌 Experiência Profissional
+
+FullStack Software Developer | Koode (2024 - Atual)
+
+Desenvolvimento fullstack com .NET, NodeJs, ReactJs e Bootstrap.
+
+
+Software Developer | Deloitte (2022 - 2024)
+
+Desenvolvimento fullstack em .NET, C# e SQL Server
+
+Otimização de processos internos e automação de relatórios
+
+Implementação de APIs e sistemas internos
+
+📫 Contato
+
+📧 Email: wgquero@icloud.com💼 LinkedIn: linkedin.com/in/wgquero📍 Localização: São Paulo - SP                                                                                 
 
 
 
